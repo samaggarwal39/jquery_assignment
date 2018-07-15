@@ -1,0 +1,27 @@
+:root{
+	font-size: 12px;
+}
+
+.collapse{
+	position: relative;
+	background: #220;
+	color: #FFF;
+	width:35%;
+	cursor: pointer;
+
+}
+.collapse h4{
+	text-align: center;
+	font-size: 10px;
+}
+.collapse p{
+	background-color: #FFFFFF;
+	color: black;
+	padding: 10% 10%;
+	display: none;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+}
